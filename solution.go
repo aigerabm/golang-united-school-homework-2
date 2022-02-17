@@ -1,4 +1,4 @@
-package square
+package golang_united_school_homework_2
 
 import "math"
 

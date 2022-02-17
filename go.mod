@@ -1,3 +1,3 @@
-module golang-united-school-homework-2
+module square
 
 go 1.16

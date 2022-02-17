@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	square "golang-united-school-homework-2"
+	"golang-united-school-homework-2/square"
 )
 
 func main() {
